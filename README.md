@@ -10,6 +10,12 @@ Clone this repository using:
 git clone https://github.com/dashadriano/concarpy
 ```
 
+Move into cloned repository's new directory. Run following command (adjust python version if necessary):
+
+```bash
+python3 main.py
+```
+
 # Development
 **concarpy** is basically a logic-powered, console-based car game. 
 
