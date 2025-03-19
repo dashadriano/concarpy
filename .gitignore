@@ -2,12 +2,6 @@
 __pycache__/
 *.py[cod]
 
-# Virtual environment
-venv/
-env/
-ENV/
-*.env
-
 # IDE or editor configuration files
 .vscode/
 .idea/
@@ -17,9 +11,6 @@ ENV/
 # OS-specific files
 .DS_Store
 Thumbs.db
-
-# Log files
-*.log
 
 # Temporary files and folders
 *.swp
